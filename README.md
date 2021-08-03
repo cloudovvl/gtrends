@@ -5,5 +5,5 @@ In order to execute the solution locally, python and pseudo API for Google trend
 Google might lock out from the servers and to handle this situation exceptions handling is used.
 
 # Data quality
-To ensure dat quality checks for dataframe size should be implemented. Moreover null values should behandles as well. 
+To ensure data quality, checks for dataframe size should be implemented. Moreover null values should behandled as well. 
 For example, if country is null when such lines should be removed.
